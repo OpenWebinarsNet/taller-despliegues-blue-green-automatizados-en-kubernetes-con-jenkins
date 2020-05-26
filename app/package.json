@@ -1,0 +1,14 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Application for demo",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js"
+  },
+  "author": "@manu756",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
